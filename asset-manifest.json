@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.61c1ceec.css",
+    "main.js": "/portfolio/static/js/main.982bb1ac.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/maki3_bg.png": "/portfolio/static/media/maki3_bg.13052a9b95c2cf84c440.png",
+    "static/media/maki2_bg.png": "/portfolio/static/media/maki2_bg.e3a48ab910095b4e6610.png",
+    "static/media/maki1_bg.png": "/portfolio/static/media/maki1_bg.d8bf6d854438e917ab39.png",
+    "static/media/maki3.jpg": "/portfolio/static/media/maki3.8ca4e36f29dfe44a2715.jpg",
+    "static/media/maki4_bg.png": "/portfolio/static/media/maki4_bg.bec530ac1d9b0930a272.png",
+    "static/media/bg2.png": "/portfolio/static/media/bg2.bee12bd122eaed00ef5d.png",
+    "static/media/maki1.jpg": "/portfolio/static/media/maki1.340e93a4ae27a3ad7569.jpg",
+    "static/media/maki4.jpg": "/portfolio/static/media/maki4.62c72653b50064d945e8.jpg",
+    "static/media/maki2.jpg": "/portfolio/static/media/maki2.62e9f828b667e923ea1d.jpg",
+    "static/media/cat.png": "/portfolio/static/media/cat.736d9bb969376afb8be2.png",
+    "static/media/annewhite.png": "/portfolio/static/media/annewhite.371b12f4390cfb19bc6d.png",
+    "index.html": "/portfolio/index.html",
+    "main.61c1ceec.css.map": "/portfolio/static/css/main.61c1ceec.css.map",
+    "main.982bb1ac.js.map": "/portfolio/static/js/main.982bb1ac.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c1ceec.css",
+    "static/js/main.982bb1ac.js"
+  ]
+}
