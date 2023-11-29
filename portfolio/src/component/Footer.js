@@ -22,8 +22,8 @@ export default function Footer(){
                         <div className="p-3 text-start">
                             <h5>Site Links</h5>
                             <ul className="list-unstyled" style={{color:"#fff"}}>
-                                <li className="mb-2 "><a href="/projects"  style={{textDecoration: "none"}}>Projects</a></li>
-                                <li className="mb-2 "><a href="/contact"  style={{textDecoration: "none"}}>Contact</a></li>
+                                <li className="mb-2 "><Link className="nav-link" to="/projects">Projects</Link></li>
+                                <li className="mb-2 "><Link className="nav-link" to="/contact">Contact</Link></li>
                             </ul>
                         </div>
                     </div>
