@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route , HashRouter} from "react-router-dom";
 import Navbar from "./components/Navbar";
 import AboutUs from "./pages/AboutUs";
 import Homepage from "./pages/Homepage";
@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
         <div className="App">
             <Navbar/>
             <Routes>
@@ -22,6 +22,6 @@ root.render(
             </Routes>
             <Footer/>
         </div>
-        </BrowserRouter>
+        </HashRouter>
   </React.StrictMode>
 );
