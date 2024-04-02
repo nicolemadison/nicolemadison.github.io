@@ -1,0 +1,26 @@
+form input, form textarea, form label{
+  color:#4d5459;
+}
+
+footer {
+  bottom: 0;
+  text-align:left;
+  background-color: #222222;
+  color: white;
+  transition: transform 150ms ease-in-out;
+}
+footer ul {
+  list-style: none; /* Removes the default bullets */
+}
+
+footer ul li::before {
+  content : "\2022"; /* Adds the bullet */
+  padding-right: 30px; /* creates the space between bullet, list item */
+  color: #fcd21d; /* changes the bullet color*/
+}
+footer h5{
+  color: #fcd21d;
+}
+footer p{
+  font-size: 0.9rem;
+}
